@@ -1,0 +1,50 @@
+
+body{
+    font: bold 16px Arial, Helvetica, sans-serif;
+    background-color: rgb(244, 244, 247);
+}
+.title{
+    text-align: left;
+    width: 300px;
+    height: 48px;
+    background: rgb(240, 242, 246);
+    font-size: medium;
+    border-radius: 12px;
+    border-color: rgb(96, 97, 101);
+    
+}
+    
+
+.text{
+    width: 500px;
+    height: 66px;
+    background: rgb(240, 242, 246);
+    border-radius: 12px;
+    color: rgb(96, 97, 101);
+    border-color: #2681d1;
+    opacity: 70%;
+}
+.input{
+    width: 500px;
+    height: 66px;
+    background: rgb(240, 242, 246);
+    font-size: medium;
+    color: rgb(96, 97, 101);
+    border-radius: 12px;
+    border-color: rgb(173, 173, 180);
+    
+}
+.signup{
+    width: 500px;
+    height: 66px;
+    font-size:large;
+    background: rgb(55, 20, 231);
+    color: rgb(234, 236, 244);
+    border-radius: 12px;
+    border-color: rgb(173, 173, 180);
+    
+}
+
+
+
+

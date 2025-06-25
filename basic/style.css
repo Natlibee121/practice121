@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: rgb(184, 184, 210);
 }
 
 i{
@@ -24,7 +24,7 @@ i{
     width: 120px;
     height: 48px;
     border-radius: 20px;
-    background-color: #0085FF;
+    background-color: #bac8d4;
     color: aliceblue;
     border-color: aqua;
     font-size: 20px;
