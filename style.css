@@ -1,0 +1,46 @@
+body{
+    background-color: blue;
+}
+
+i{
+    color: aqua;
+}
+
+.title{
+    text-align: center;
+    color: aqua;
+    font-size: 100px;
+    opacity: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input{
+    width: 300px;
+    height: 48px;
+    border-radius: 12px;
+}
+
+.btn{
+    width: 120px;
+    height: 48px;
+    border-radius: 20px;
+    background-color: #0085FF;
+    color: aliceblue;
+    border-color: aqua;
+    font-size: 20px;
+    border-style: dotted;
+}
+
+.form{
+    width: 600px;
+    gap: 100px;
+    display: flex;
+}
+
+.myform{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-direction: column;
+}
+
